@@ -6,3 +6,5 @@
 
 ## New branch created for the drawChess function
 * HTML CSS JS files beautified
+* id of cell is the counter (var). 
+* icon moving works by arrows now
