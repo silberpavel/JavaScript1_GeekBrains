@@ -1,5 +1,5 @@
 window.onload = function () {
-    // alert('document loaded');
+    // alert('document loaded');      ARROW BRANCH
 
     console.log('document.childNodes'); //all childrens with doctype
     console.log(document.childNodes);
