@@ -6,3 +6,9 @@
     margin: 2px;
     margin-bottom: 1px;
 }
+
+.red {
+    background-image: url(http://wesleycloverparks.com/wp-content/uploads/2016/11/horse-icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
